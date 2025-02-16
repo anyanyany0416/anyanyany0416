@@ -1,4 +1,5 @@
-##彩虹猫敲可爱的~
+## 彩虹猫敲可爱的~
+八年级不知名工程师，深度参与蓝脑、chatGPT等重大开发项目的观看任务
 <!--
 **anyanyany0416/anyanyany0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
